@@ -1,9 +1,9 @@
 # Document Retrieval System 🗂️
 
-A DRS that returns titles and the related passages of scientific articles that contain the answer to a given user question about coronaviruses and in particular COVID-19.  
-Five different sentence embedding approaches are used.
+A DRS that returns titles and the related passages of scientific articles that contain the answer to a given user question about coronaviruses and in particular COVID-19. I use the [COVID-19 Open Research Dataset (CORD-19)](https://www.semanticscholar.org/cord19).
 
-**Dataset:** [COVID-19 Open Research Dataset (CORD-19)](https://www.semanticscholar.org/cord19).
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Qi_dK-S6spqYDsa18-pgAK_klPBuWjBp?usp=sharing) 
+
 
 Example outputs from running the models:
 
