@@ -20,7 +20,7 @@ Example outputs from running the models:
   **Passage answer:** Wearing a mask can control the spread of disease via the long- range airborne, fomite and close contact routes.
   
 > **Question:** What are the symptoms of COVID-19?  
-  **From paper with title:** The history and epidemiology of Middle East respiratory syndrome corona virus
+  **From paper with title:** The history and epidemiology of Middle East respiratory syndrome corona virus  
   **Passage answer:** The clinical presentation of MERS-CoV ranges from flu-like symptoms, i.e., fever and cough in 87% of patients, chills, rigor, rhinorrhea, myalgia, and fatigue, to more severe symptoms, including shortness of breath in 48% of patients and respiratory failure, resulting in the requirement for intubation and ventilation.
 
 You can see all the questions asked in each of the five models in the `Report.pdf` I have provided in this repository as well as some comments and comparisons of the models.
